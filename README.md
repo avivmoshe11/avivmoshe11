@@ -25,6 +25,9 @@ I'm also the founder and CTO of Matchscanner which is currently being under deve
 - Applies full environment (version) control by seperation of Development/Production environments.
 - Fullstack app that uses the same technologies as the main app.
 
+## The repositories are private due to "StartUp" state - but don't worry they are there.
+## You cannot see my contribution because the discord bot is submitting all the contributions and pr's as an Admin user.
+
 ##Business inqueries:
 
 - Discord: aviv1234
