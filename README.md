@@ -27,9 +27,9 @@ I'm also the founder and CTO of Matchscanner which is currently being under deve
 
 ##Business inqueries:
 
-Discord: aviv1234
-LinkedIn: aviv-moshe (link is set in the profile)
-Email: avivmoshe123@gmail.com
+- Discord: aviv1234
+- LinkedIn: aviv-moshe (link is set in the profile)
+- Email: avivmoshe123@gmail.com
 
 
 <!--
