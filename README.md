@@ -1,9 +1,9 @@
 # Hi there👋, I'm [Aviv Moshe](https://www.linkedin.com/in/aviv-moshe/)
-
+<!--
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=avivmoshe11&show_icons=true&theme=radical"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avivmoshe11&layout=compact"/>
-
+-->
 ## Disclaimer: 
 I'm currently working full-time as a fullstack developer (backend expertise) and as a devops engineer at WeDev Technologies Ltd.
 I'm also the founder and CTO of Matchscanner which is currently being under development.
