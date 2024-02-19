@@ -4,7 +4,32 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avivmoshe11&layout=compact"/>
 
+## Disclaimer: 
+I'm currently working full-time as a fullstack developer (backend expertise) and as a devops engineer at WeDev Technologies Ltd.
+I'm also the founder and CTO of Matchscanner which is currently being under development.
 
+### The organization contains:
+
+#### Discord bot
+- Built on discord.js and its 100% in typescript.
+- Allows version control of branch creating, pull request creating, jira integration and progresses the jira tasks by the users actions (tech design/in progress/dev deploy) stages.
+
+#### Web main app (wip)
+- An attempt to make the players/matches finding process easier, concentrated and friendly across a variety of games and platforms.
+- Front: Mainly React.ts, Redux@toolkit.
+- Backend: Express, MongoDb (stripped and 100% modifiable and scalable unlike "mongoose" solutions etc.) - Contains nice development features as script manager, jobs manager etc.
+- Both front and back are 100% typescript.
+
+#### Dashboard app
+- Controls values, assets, parameters, users that exist on the app.
+- Applies full environment (version) control by seperation of Development/Production environments.
+- Fullstack app that uses the same technologies as the main app.
+
+##Business inqueries:
+
+Discord: aviv1234
+LinkedIn: aviv-moshe (link is set in the profile)
+Email: avivmoshe123@gmail.com
 
 
 <!--
