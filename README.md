@@ -28,12 +28,6 @@ I'm also the founder and CTO of Matchscanner which is currently being under deve
 ## **The repositories are private due to "StartUp" state - but don't worry they are there.**
 ## **You cannot see my contribution because the discord bot is submitting all the contributions and pr's as an Admin user.**
 
-## Business inqueries:
-
-- Discord: aviv1234
-- LinkedIn: aviv-moshe (link is set in the profile)
-- Email: avivmoshe123@gmail.com
-
 
 <!--
 **avivmoshe11/avivmoshe11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
