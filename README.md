@@ -1,4 +1,4 @@
-# Hi there👋, I'm [Aviv Moshe](https://www.linkedin.com/in/aviv-moshe/)
+# Hi there👋, I'm Aviv Moshe
 <!--
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=avivmoshe11&show_icons=true&theme=radical"/>
 
